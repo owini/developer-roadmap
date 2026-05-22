@@ -1,26 +1,4 @@
-<p align="center">
-  <a href="https://roadmap.sh/"><img src="public/img/brand.png" height="128"></a>
-  <h2 align="center"><a href="https://roadmap.sh">roadmap.sh</a></h2>
-  <p align="center">Community driven roadmaps, articles and resources for developers<p>
-  <p align="center">
-    <a href="https://roadmap.sh/roadmaps">
-    	<img src="https://img.shields.io/badge/%E2%9C%A8-Roadmaps%20-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="roadmaps" />
-    </a>
-    <a href="https://roadmap.sh/best-practices">
-    	<img src="https://img.shields.io/badge/%E2%9C%A8-Best%20Practices-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="best practices" />
-    </a>
-    <a href="https://roadmap.sh/questions">
-    	<img src="https://img.shields.io/badge/%E2%9C%A8-Questions-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="videos" />
-    </a>
-    <a href="https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now?sub_confirmation=1">
-    	<img src="https://img.shields.io/badge/%E2%9C%A8-YouTube%20Channel-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="roadmaps" />
-    </a>
-  </p>
-</p>
-
-<br>
-
-![](https://i.imgur.com/waxVImv.png)
+## Developer Roadmaps
 
 Roadmaps are now interactive, you can click the nodes to read more about the topics.
 
